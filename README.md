@@ -14,4 +14,11 @@ Ce dépôt GitHub rassemble les annexes techniques de notre mémoire de Master 2
 
 ### En R 
 
+library(ggplot2)
+library(mapsf)
+library(sf)
+library(dplyr)
+library(tidyr)
+library(spatstat)
+
 ## 
