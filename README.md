@@ -4,11 +4,11 @@ Ce dépôt GitHub rassemble les annexes techniques de notre mémoire de Master 2
 
 ## Cliquez sur les liens ci-dessous pour accéder à nos cartes dynamiques
 
-**Localisation des sites CASIAS en Île-de-France** : https://github.com/Charlotte-BERTHIER/heritages_toxiques/tree/main/results/carte_sites_casias_idf.html
+**Localisation des sites CASIAS en Île-de-France** : https://github.com/Charlotte-BERTHIER/heritages_toxiques/tree/main/results/Cartes dynamiques/carte_sites_casias_idf.html
 
-**Nombre de sites CASIAS par commune d'Île-de-France** : https://github.com/Charlotte-BERTHIER/heritages_toxiques/tree/main/results/carte_nb_sites_par_commune.html
+**Nombre de sites CASIAS par commune d'Île-de-France** : https://github.com/Charlotte-BERTHIER/heritages_toxiques/tree/main/results/Cartes dynamiques/carte_nb_sites_par_commune.html
 
-**Localisation des points duplicats dans la base de données CASIAS** : https://github.com/Charlotte-BERTHIER/heritages_toxiques/tree/main/results/carte_duplicate_points.html
+**Localisation des points duplicats dans la base de données CASIAS** : https://github.com/Charlotte-BERTHIER/heritages_toxiques/tree/main/results/Cartes dynamiques/carte_duplicate_points.html
 
 ## Description de l'arborescence 
 **sources** - Contient les sources de données utilisées dans le cadre de notre étude
