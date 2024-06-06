@@ -2,6 +2,9 @@
 
 Ce dépôt GitHub rassemble les annexes techniques de notre mémoire de Master 2 en Humanités Numériques à l'Ecole Nationale des Chartes.
 
+## Lien vers les cartes dynamiques 
+
+
 ## Description de l'arborescence 
 **sources** - Contient les sources de données utilisées dans le cadre de notre étude
 **results** - Contient les résultats des traitements de données
