@@ -2,6 +2,10 @@
 
 Ce dépôt GitHub rassemble les annexes techniques de notre mémoire de Master 2 en Humanités Numériques à l'Ecole Nationale des Chartes.
 
+## Abstract
+
+La pollution industrielles des sols en Île-deFrance a une histoire et une géographie. Elle est le produit de l'industrialisation, c'est-à-dire de l'organisation socio-spatiale de la production aux XIXe et XXe siècles. Les scandales et mobilisations politiques récents au sujet des PFAS, polluants éternels, ont agité l'actualité en 2023-2024. Diffuse et maintenant éternelle, la pollution généralisée des milieux définit l'Anthropocène, et la relation que les sociétés humaines entretiennent avec leur environnement.  Dès lors, quels sont les impacts territoriaux de la pollution des sols ? Où se manifeste-t-elle ? Quels impacts a la pollution des sols sur l'évolution des territoires ? Nous nous penchons sur le cas particulier des territoires industriels et post-industriels pour comprendre les impacts à long terme de l'industrialisation sur les territoires, leurs héritages toxiques.  
+
 ## Cliquez sur les liens ci-dessous pour accéder à nos cartes dynamiques
 
 **Localisation des sites CASIAS en Île-de-France** : https://github.com/Charlotte-BERTHIER/heritages_toxiques/tree/main/results/Cartes dynamiques/carte_sites_casias_idf.html
