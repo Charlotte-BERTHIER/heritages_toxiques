@@ -30,7 +30,7 @@ La pollution industrielles des sols en Île-deFrance a une histoire et une géog
 ## Librairies utilisées 
 ### En Python
 
-* Python 
+Voir le fichier requirements.txt
 
 ### En R 
 
