@@ -30,13 +30,15 @@ La pollution industrielles des sols en Île-deFrance a une histoire et une géog
 ## Librairies utilisées 
 ### En Python
 
+* Python 
+
 ### En R 
 
-library(ggplot2)
-library(mapsf)
-library(sf)
-library(dplyr)
-library(tidyr)
-library(spatstat)
+* library(ggplot2)
+* library(mapsf)
+* library(sf)
+* library(dplyr)
+* library(tidyr)
+* library(spatstat)
 
 ## 
