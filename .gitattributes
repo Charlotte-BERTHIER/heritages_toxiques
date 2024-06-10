@@ -1,0 +1,4 @@
+r/data/pollution_grids.gpkg filter=lfs diff=lfs merge=lfs -text
+redaction/2024_BERTHIER_Charlotte_Memoire_M2_Heritages_Toxiques.pdf filter=lfs diff=lfs merge=lfs -text
+notebooks/240306_CASIAS_Explo_vdef.ipynb filter=lfs diff=lfs merge=lfs -text
+results/quadrillages/pollution_grids.gpkg filter=lfs diff=lfs merge=lfs -text
