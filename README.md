@@ -8,13 +8,13 @@ La pollution industrielles des sols en Île-deFrance a une histoire et une géog
 
 ## Cliquez sur les liens ci-dessous pour accéder à nos cartes dynamiques
 
-**Localisation des sites CASIAS en Île-de-France** : https://github.com/charlotte-berthier/heritages_toxiques/cartes_dynamiques/carte_points_ile_de_france.html
+**Localisation des sites CASIAS en Île-de-France** : https://charlotte-berthier.github.io/heritages_toxiques/cartes_dynamiques/carte_points_ile_de_france.html
 
-**Nombre de sites CASIAS par commune d'Île-de-France** : https://github.com/charlotte-berthier/heritages_toxiques/cartes_dynamiques/carte_nb_sites_par_commune.html
+**Nombre de sites CASIAS par commune d'Île-de-France** : https://charlotte-berthier.github.io/heritages_toxiques/cartes_dynamiques/carte_nb_sites_par_commune.html
 
-**Localisation des points duplicats dans la base de données CASIAS** : https://github.com/charlotte-berthier/heritages_toxiques/cartes_dynamiques/carte_duplicate_points.html
+**Localisation des points duplicats dans la base de données CASIAS** : https://charlotte-berthier.github.io/heritages_toxiques/cartes_dynamiques/carte_duplicate_points.html
 
-## Description de l'arborescence \\
+## Description de l'arborescence 
 
 **sources** - Contient les sources de données utilisées dans le cadre de notre étude
 
