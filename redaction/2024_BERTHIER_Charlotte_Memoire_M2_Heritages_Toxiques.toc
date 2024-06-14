@@ -1,0 +1,39 @@
+\babel@toc {french}{}\relax 
+\contentsline {chapter}{Résumé}{iii}{section*.1}%
+\contentsline {chapter}{Abstract}{iii}{section*.2}%
+\contentsline {chapter}{Remerciements}{v}{section*.3}%
+\contentsline {chapter}{Introduction}{1}{chapter*.4}%
+\contentsline {chapter}{\numberline {1}La Plaine-Saint-Denis, héritages territoriaux de la première zone industrielle de France (de 1810 à nos jours)}{13}{chapter.1}%
+\contentsline {section}{\numberline {1.1}La plaine de Saint-Denis : espaces disponibles, pollutions hors les murs (1810 - 1870)}{14}{section.1.1}%
+\contentsline {section}{\numberline {1.2}La Plaine-Saint-Denis, banlieue industrielle (1870 - 1950)}{15}{section.1.2}%
+\contentsline {section}{\numberline {1.3}La Plaine-Saint-Denis, de l'usine à la friche (1950 - aujourd'hui)}{17}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Conclusion du chapitre}{19}{section.1.4}%
+\contentsline {chapter}{\numberline {2}La pollution et ses sources : la mémoire environnementale des lieux d’industrie}{21}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Les sources sur la pollution des sols}{21}{section.2.1}%
+\contentsline {section}{\numberline {2.2}De la nuisance au risque}{23}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}1810. "Dangereux, insalubres, incommodes"\thanks {\blx@tocontentsinit {0}\cite {guillerme_dangereux_2004}, Le titre de l'ouvrage est une référence à la loi de 1810} : naissance de la régulation du risque industriel en France}{24}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}1976. Crise de Seveso et émergence de la question environnementale en Europe}{25}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}1994. Émergence d'une mémoire environnementale du risque industriel}{28}{subsection.2.2.3}%
+\contentsline {section}{\numberline {2.3}Conclusion du chapitre}{31}{section.2.3}%
+\contentsline {chapter}{\numberline {3}Le système de lieux de la pollution industrielle à Saint-Denis et en Île-de-France}{33}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Chaîne de traitement Python sur CASIAS}{34}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}La base de données CASIAS}{34}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}ActiviPoll v3 : corrélation entre activités et polluants}{36}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}Le code NAF 2008 : indispensable pour croiser les données}{37}{subsection.3.1.3}%
+\contentsline {subsection}{\numberline {3.1.4}Notre chaîne de traitement}{38}{subsection.3.1.4}%
+\contentsline {section}{\numberline {3.2}Transformer les points CASIAS en lieux d'histoire}{43}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Nettoyage des données}{43}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Comprendre la géolocalisation des sites}{44}{subsection.3.2.2}%
+\contentsline {section}{\numberline {3.3}Les lieux d'histoire de la pollution industrielle en Île-de-France}{48}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Analyse des points, la question des échelles d'analyse }{52}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Conclusion du chapitre}{55}{section.3.5}%
+\contentsline {chapter}{\numberline {4}Lieux de pollution, étendue des dégâts : modéliser les hypothèses de pollution industrielle en Île-de-France}{57}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Le quadrillage}{57}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Méthode 1 - Les notes moyennes d'hypothèses de pollution}{58}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Méthode 2 - L'indice de pollution potentielle (IPP)}{59}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}Comparaison de quatorze quadrillages}{59}{subsection.4.1.3}%
+\contentsline {section}{\numberline {4.2}Cartes de chaleurs}{70}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Conclusion du chapitre}{71}{section.4.3}%
+\contentsline {chapter}{Conclusion}{73}{chapter*.46}%
+\contentsline {chapter}{Table des figures}{81}{chapter*.49}%
+\contentsline {chapter}{Table des matières}{83}{chapter*.50}%

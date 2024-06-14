@@ -1,0 +1,1931 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{adda_usine_1979}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=af9177d4e766f7c2d84d272fb8ff07ba}{%
+           family={Adda},
+           familyi={A\bibinitperiod},
+           given={Serge},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=05ba980f5e3918be102fe4a361e04e66}{%
+           family={Ducreux},
+           familyi={D\bibinitperiod},
+           given={Maurice},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a0b734cbd09a83049c7721c072be2256}
+      \strng{fullhash}{a0b734cbd09a83049c7721c072be2256}
+      \strng{bibnamehash}{a0b734cbd09a83049c7721c072be2256}
+      \strng{authorbibnamehash}{a0b734cbd09a83049c7721c072be2256}
+      \strng{authornamehash}{a0b734cbd09a83049c7721c072be2256}
+      \strng{authorfullhash}{a0b734cbd09a83049c7721c072be2256}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Les Annales de la Recherche Urbaine}
+      \field{number}{1}
+      \field{title}{L'usine disparaît. L'industrialisation remise en question. Saint-Denis, Aubervilliers}
+      \field{urlday}{8}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{5}
+      \field{year}{1979}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{27\bibrangedash 66}
+      \range{pages}{40}
+      \verb{doi}
+      \verb 10.3406/aru.1979.972
+      \endverb
+      \verb{urlraw}
+      \verb https://www.persee.fr/doc/aru_0180-930x_1979_num_5_1_972
+      \endverb
+      \verb{url}
+      \verb https://www.persee.fr/doc/aru_0180-930x_1979_num_5_1_972
+      \endverb
+    \endentry
+    \entry{ars_idf_contamination_2023}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=dc2a1e4607447a2b65cafee10a760be4}{%
+           family={{ARS IDF}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {{ARS} Île-de-France}%
+      }
+      \strng{namehash}{dc2a1e4607447a2b65cafee10a760be4}
+      \strng{fullhash}{dc2a1e4607447a2b65cafee10a760be4}
+      \strng{bibnamehash}{dc2a1e4607447a2b65cafee10a760be4}
+      \strng{authorbibnamehash}{dc2a1e4607447a2b65cafee10a760be4}
+      \strng{authornamehash}{dc2a1e4607447a2b65cafee10a760be4}
+      \strng{authorfullhash}{dc2a1e4607447a2b65cafee10a760be4}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{langid}{french}
+      \field{month}{11}
+      \field{number}{{HPC}-F 2A/2.22.5670 a}
+      \field{shorttitle}{Contamination des œufs de poules par des polluants organiques persistants}
+      \field{title}{Contamination des œufs de poules par des polluants organiques persistants. Étude dans 25 poulaillers domestiques en Île-de-France}
+      \field{type}{Rapport d'étude}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb RAPPORT - Contamination des oeufs de poules par des polluants organiques persistants - Novembre 2023_0.pdf:/Users/charlotteberthier/Zotero/storage/CZ9BV5X8/RAPPORT - Contamination des oeufs de poules par des polluants organiques persistants - Novembre 2023_0.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.iledefrance.ars.sante.fr/system/files/2023-11/RAPPORT%20-%20Contamination%20des%20oeufs%20de%20poules%20par%20des%20polluants%20organiques%20persistants%20-%20Novembre%202023_0.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.iledefrance.ars.sante.fr/system/files/2023-11/RAPPORT%20-%20Contamination%20des%20oeufs%20de%20poules%20par%20des%20polluants%20organiques%20persistants%20-%20Novembre%202023_0.pdf
+      \endverb
+    \endentry
+    \entry{aubert_n_elaboration_2014}{report}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=e9b9b595b0141de442e90895033b8b7f}{%
+           family={{Aubert, N.}},
+           familyi={A\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=207dda88993933e8fcc385bed5f2e451}{%
+           family={{Koch-Mathian, J-Y}},
+           familyi={K\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {BRGM}%
+      }
+      \strng{namehash}{b838d19e9d772852c906045c8fb72bae}
+      \strng{fullhash}{b838d19e9d772852c906045c8fb72bae}
+      \strng{bibnamehash}{b838d19e9d772852c906045c8fb72bae}
+      \strng{authorbibnamehash}{b838d19e9d772852c906045c8fb72bae}
+      \strng{authornamehash}{b838d19e9d772852c906045c8fb72bae}
+      \strng{authorfullhash}{b838d19e9d772852c906045c8fb72bae}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Création de la {BDD} {ActiviPoll} v1}
+      \field{month}{11}
+      \field{number}{{BRGM}/{RP}-64125-{FR}}
+      \field{title}{Elaboration d’une base de données corrélant activités et polluants potentiels}
+      \field{type}{Rapport final}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{pages}{110}
+      \range{pages}{1}
+      \verb{file}
+      \verb BRGM_CorréActiviPollu_RP-64125-FR.pdf:/Users/charlotteberthier/Zotero/storage/EFUWGSIB/RP-64125-FR.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{barles_sol_1999}{collection}{}
+      \name{editor}{1}{}{%
+        {{un=0,uniquepart=base,hash=24c8d587650712d69068212927fa407b}{%
+           family={Barles},
+           familyi={B\bibinitperiod},
+           given={Sabine},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Anthropos}%
+      }
+      \strng{namehash}{24c8d587650712d69068212927fa407b}
+      \strng{fullhash}{24c8d587650712d69068212927fa407b}
+      \strng{bibnamehash}{24c8d587650712d69068212927fa407b}
+      \strng{editorbibnamehash}{24c8d587650712d69068212927fa407b}
+      \strng{editornamehash}{24c8d587650712d69068212927fa407b}
+      \strng{editorfullhash}{24c8d587650712d69068212927fa407b}
+      \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-2-7178-3903-6}
+      \field{pagetotal}{278}
+      \field{series}{Collection villes}
+      \field{title}{Le sol urbain}
+      \field{year}{1999}
+      \field{dateera}{ce}
+      \keyw{\_publication majeure,\_nettoyé}
+    \endentry
+    \entry{barles_ecologie_2017}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=24c8d587650712d69068212927fa407b}{%
+           family={Barles},
+           familyi={B\bibinitperiod},
+           given={Sabine},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{24c8d587650712d69068212927fa407b}
+      \strng{fullhash}{24c8d587650712d69068212927fa407b}
+      \strng{bibnamehash}{24c8d587650712d69068212927fa407b}
+      \strng{authorbibnamehash}{24c8d587650712d69068212927fa407b}
+      \strng{authornamehash}{24c8d587650712d69068212927fa407b}
+      \strng{authorfullhash}{24c8d587650712d69068212927fa407b}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{L’écologie territoriale permet de caractériser les régimes socioécologiques locaux, dont l’expression est le métabolisme territorial, ensemble des flux d’énergie et de matières mis en jeu par le fonctionnement des sociétés humaines ; elle contribue par là aux discussions sur la transition socioécologique. Posant la dématérialisation comme l’un des objectifs majeurs de cette transition, et après avoir décrit les spécificités du métabolisme urbain, cet article aborde les enjeux qui en découlent dans le cas particulier des villes, en traitant successivement des matières minérales, des éléments biogènes et des relations interterritoriales. Il insiste sur les limites du recyclage tout en mettant l’accent sur l’importance des mines urbaines pour certains matériaux ; sur la nécessaire réinscription des villes dans les grands cycles biogéochimiques ; enfin sur les externalités matérielles urbaines que les politiques locales ne devraient pas ignorer.}
+      \field{issn}{0180-7307}
+      \field{journaltitle}{Revue d’Économie Régionale \& Urbaine}
+      \field{langid}{french}
+      \field{note}{Place: Paris Publisher: Armand Colin}
+      \field{number}{5}
+      \field{shortjournal}{Revue d’Économie Régionale \& Urbaine}
+      \field{shorttitle}{Écologie territoriale et métabolisme urbain}
+      \field{title}{Écologie territoriale et métabolisme urbain : quelques enjeux de la transition socioécologique}
+      \field{urlday}{21}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{volume}{Décembre}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{819\bibrangedash 836}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.3917/reru.175.0819
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/Users/charlotteberthier/Zotero/storage/I3KZJ6R9/Barles - 2017 - Écologie territoriale et métabolisme urbain  quel.pdf:application/pdf;Snapshot:/Users/charlotteberthier/Zotero/storage/L2RQKNFD/revue-d-economie-regionale-et-urbaine-2017-5-page-819.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.cairn.info/revue-d-economie-regionale-et-urbaine-2017-5-page-819.htm
+      \endverb
+      \verb{url}
+      \verb https://www.cairn.info/revue-d-economie-regionale-et-urbaine-2017-5-page-819.htm
+      \endverb
+      \keyw{\_lu,\_nettoyé,dématérialisation,écologie territoriale,flux de matières et d’énergie,métabolisme urbain,transition socioécologique}
+    \endentry
+    \entry{barles_lurbain_2020}{incollection}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=24c8d587650712d69068212927fa407b}{%
+           family={Barles},
+           familyi={B\bibinitperiod},
+           given={Sabine},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=65b029f63fe98c57d44960704365c053}{%
+           family={Abbadie},
+           familyi={A\bibinitperiod},
+           given={Luc},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a5226968e8ec80673e8d14604ebd7500}{%
+           family={Lehec},
+           familyi={L\bibinitperiod},
+           given={Élisabeth},
+           giveni={É\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=63f45d3b3e7d9597ad0d8dd2770ea6b4}{%
+           family={Paddeu},
+           familyi={P\bibinitperiod},
+           given={Flaminia},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=86c802b37c5a2b0ba421cb073ff469e0}{%
+           family={Thébault},
+           familyi={T\bibinitperiod},
+           given={Emma},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{5}{}{%
+        {{hash=190a0de5862db8ab531e29e8c20976b8}{%
+           family={Adisson},
+           familyi={A\bibinitperiod},
+           given={Félix},
+           giveni={F\bibinitperiod}}}%
+        {{hash=022f933f44bd56cebb0a0b9d5ae4cc0e}{%
+           family={Blanc},
+           familyi={B\bibinitperiod},
+           given={Nathalie},
+           giveni={N\bibinitperiod}}}%
+        {{hash=1213acea352c61c168496b2daaf0ab83}{%
+           family={Coutard},
+           familyi={C\bibinitperiod},
+           given={Olivier},
+           giveni={O\bibinitperiod}}}%
+        {{hash=65f9c74b35f6e14142d299220a7a131c}{%
+           family={Frouillou},
+           familyi={F\bibinitperiod},
+           given={Leïla},
+           giveni={L\bibinitperiod}}}%
+        {{hash=9504b171689203a59bbd86983ce4ad51}{%
+           family={Rassat},
+           familyi={R\bibinitperiod},
+           given={Fanny},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {{CNRS} Éditions}%
+      }
+      \strng{namehash}{3b5cc3c3b8eccae0065652597b8edf3b}
+      \strng{fullhash}{d627c5ed1c45105c9172199390bf955a}
+      \strng{bibnamehash}{3b5cc3c3b8eccae0065652597b8edf3b}
+      \strng{authorbibnamehash}{3b5cc3c3b8eccae0065652597b8edf3b}
+      \strng{authornamehash}{3b5cc3c3b8eccae0065652597b8edf3b}
+      \strng{authorfullhash}{d627c5ed1c45105c9172199390bf955a}
+      \strng{editorbibnamehash}{bb9e126884197752d05b3347e53a63d6}
+      \strng{editornamehash}{bb9e126884197752d05b3347e53a63d6}
+      \strng{editorfullhash}{6631e3fef20ebe1e5916957bbfe65e6d}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Pour la recherche urbaine}
+      \field{isbn}{978-2-271-13562-9}
+      \field{langid}{french}
+      \field{note}{Code: Pour la recherche urbaine}
+      \field{series}{Hors collection}
+      \field{title}{L’urbain, un objet socio-écologique ?}
+      \field{urlday}{9}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{141\bibrangedash 159}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.4000/books.editionscnrs.37088
+      \endverb
+      \verb{urlraw}
+      \verb https://books.openedition.org/editionscnrs/37088
+      \endverb
+      \verb{url}
+      \verb https://books.openedition.org/editionscnrs/37088
+      \endverb
+      \keyw{\_lu}
+    \endentry
+    \entry{bernhardt_demon_2002}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3340c6a0b24ab757bcfac85f3f3ce776}{%
+           family={Bernhardt},
+           familyi={B\bibinitperiod},
+           given={Christoph},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Clermont-Ferrand}%
+      }
+      \list{publisher}{1}{%
+        {Presses Universitaires Blaise-Pascal}%
+      }
+      \strng{namehash}{3340c6a0b24ab757bcfac85f3f3ce776}
+      \strng{fullhash}{3340c6a0b24ab757bcfac85f3f3ce776}
+      \strng{bibnamehash}{3340c6a0b24ab757bcfac85f3f3ce776}
+      \strng{authorbibnamehash}{3340c6a0b24ab757bcfac85f3f3ce776}
+      \strng{authornamehash}{3340c6a0b24ab757bcfac85f3f3ce776}
+      \strng{authorfullhash}{3340c6a0b24ab757bcfac85f3f3ce776}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Massard-Guilbaud, Geneviève}
+      \field{isbn}{978-2-84516-180-1}
+      \field{pagetotal}{465}
+      \field{series}{Histoires croisées}
+      \field{shorttitle}{Le démon moderne}
+      \field{title}{Le démon moderne : la pollution dans les sociétés urbaines et industrielles d'Europe}
+      \field{year}{2002}
+      \field{dateera}{ce}
+      \keyw{\_nettoyé}
+    \endentry
+    \entry{brgm_bd_nodate}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1bf7c3d3ed77df717bea90ddb2639ad9}{%
+           family={{BRGM}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{1bf7c3d3ed77df717bea90ddb2639ad9}
+      \strng{fullhash}{1bf7c3d3ed77df717bea90ddb2639ad9}
+      \strng{bibnamehash}{1bf7c3d3ed77df717bea90ddb2639ad9}
+      \strng{authorbibnamehash}{1bf7c3d3ed77df717bea90ddb2639ad9}
+      \strng{authornamehash}{1bf7c3d3ed77df717bea90ddb2639ad9}
+      \strng{authorfullhash}{1bf7c3d3ed77df717bea90ddb2639ad9}
+      \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{{BRGM} - Base de données des corrélations Activités-Polluants - Version 3.}
+      \field{langid}{french}
+      \field{title}{{BD} {ActiviPoll} {|} {SSP}-{InfoTerre}}
+      \field{urlday}{8}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/Users/charlotteberthier/Zotero/storage/R6HSS4I8/bd-activipoll.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://ssp-infoterre.brgm.fr/fr/base-de-donnees/bd-activipoll
+      \endverb
+      \verb{url}
+      \verb https://ssp-infoterre.brgm.fr/fr/base-de-donnees/bd-activipoll
+      \endverb
+    \endentry
+    \entry{brgm_casias_nodate}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1bf7c3d3ed77df717bea90ddb2639ad9}{%
+           family={{BRGM}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{1bf7c3d3ed77df717bea90ddb2639ad9}
+      \strng{fullhash}{1bf7c3d3ed77df717bea90ddb2639ad9}
+      \strng{bibnamehash}{1bf7c3d3ed77df717bea90ddb2639ad9}
+      \strng{authorbibnamehash}{1bf7c3d3ed77df717bea90ddb2639ad9}
+      \strng{authornamehash}{1bf7c3d3ed77df717bea90ddb2639ad9}
+      \strng{authorfullhash}{1bf7c3d3ed77df717bea90ddb2639ad9}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Ministère en charge de l'environnement, {BRGM}}
+      \field{langid}{french}
+      \field{title}{{CASIAS} - Carte des Anciens Sites Industriels et Activités de Services {|} {SSP}-{InfoTerre}}
+      \field{titleaddon}{Info Terre Sites et Sols Pollués}
+      \field{type}{Institutionnel}
+      \field{urlday}{26}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/Users/charlotteberthier/Zotero/storage/2NSZHCAF/casias.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://ssp-infoterre.brgm.fr/fr/base-de-donnees/casias
+      \endverb
+      \verb{url}
+      \verb https://ssp-infoterre.brgm.fr/fr/base-de-donnees/casias
+      \endverb
+    \endentry
+    \entry{brunet_saint-denis_1980}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=49c0ebcc5107fbc9c88918402596bb78}{%
+           family={Brunet},
+           familyi={B\bibinitperiod},
+           given={Jean-Paul},
+           giveni={J\bibinithyphendelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Hachette}%
+      }
+      \strng{namehash}{49c0ebcc5107fbc9c88918402596bb78}
+      \strng{fullhash}{49c0ebcc5107fbc9c88918402596bb78}
+      \strng{bibnamehash}{49c0ebcc5107fbc9c88918402596bb78}
+      \strng{authorbibnamehash}{49c0ebcc5107fbc9c88918402596bb78}
+      \strng{authornamehash}{49c0ebcc5107fbc9c88918402596bb78}
+      \strng{authorfullhash}{49c0ebcc5107fbc9c88918402596bb78}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{978-2-01-006109-7}
+      \field{pagetotal}{462}
+      \field{shorttitle}{Saint-Denis, la ville rouge}
+      \field{title}{Saint-Denis, la ville rouge: socialisme et communisme en banlieue ouvrière, 1890-1939}
+      \field{year}{1980}
+      \field{dateera}{ce}
+      \keyw{\_nettoyé,Communism,France Saint-Denis,Politics and government,Saint-Denis (France),Socialism}
+    \endentry
+    \entry{carson_silent_1962}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=26e5652253790ae96ccc0f8e47e51403}{%
+           family={Carson},
+           familyi={C\bibinitperiod},
+           given={Rachel\bibnamedelima Louise},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Greenwich (Conn), Etats-Unis d'Amérique}%
+      }
+      \list{publisher}{1}{%
+        {Fawcett}%
+      }
+      \strng{namehash}{26e5652253790ae96ccc0f8e47e51403}
+      \strng{fullhash}{26e5652253790ae96ccc0f8e47e51403}
+      \strng{bibnamehash}{26e5652253790ae96ccc0f8e47e51403}
+      \strng{authorbibnamehash}{26e5652253790ae96ccc0f8e47e51403}
+      \strng{authornamehash}{26e5652253790ae96ccc0f8e47e51403}
+      \strng{authorfullhash}{26e5652253790ae96ccc0f8e47e51403}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{pagetotal}{304}
+      \field{title}{Silent Spring}
+      \field{year}{1962}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb Library Catalog Entry Snapshot:/Users/charlotteberthier/Zotero/storage/PP5XUAEP/SRCH.html:text/html
+      \endverb
+    \endentry
+    \entry{clerc_lieu_2004}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=95e4af5ad17bdc18748f2fcbedfc6a68}{%
+           family={Clerc},
+           familyi={C\bibinitperiod},
+           given={Pascal},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{95e4af5ad17bdc18748f2fcbedfc6a68}
+      \strng{fullhash}{95e4af5ad17bdc18748f2fcbedfc6a68}
+      \strng{bibnamehash}{95e4af5ad17bdc18748f2fcbedfc6a68}
+      \strng{authorbibnamehash}{95e4af5ad17bdc18748f2fcbedfc6a68}
+      \strng{authornamehash}{95e4af5ad17bdc18748f2fcbedfc6a68}
+      \strng{authorfullhash}{95e4af5ad17bdc18748f2fcbedfc6a68}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Dans leurs écrits, les géographes «classiques» et nombre d’auteurs contemporains ne cessent de faire référence à ce que le sens commun définit comme des lieux, c’est-à-dire des portions déterminées et singulières de l’espace auxquelles sont associés des toponymes. Pourtant, pendant longtemps le terme de «lieu» n’est presque pas employé («contrée» ou pays peuvent faire figure […]}
+      \field{day}{27}
+      \field{langid}{french}
+      \field{month}{8}
+      \field{title}{Lieu}
+      \field{titleaddon}{{HyperGeo}}
+      \field{urlday}{8}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{year}{2004}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/Users/charlotteberthier/Zotero/storage/W758VA78/lieu.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://hypergeo.eu/lieu/
+      \endverb
+      \verb{url}
+      \verb https://hypergeo.eu/lieu/
+      \endverb
+    \endentry
+    \entry{collectif_dictionnaire_2024}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=12ca05637c4ddee2523f1218bdb7cd93}{%
+           family={{Collectif}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{12ca05637c4ddee2523f1218bdb7cd93}
+      \strng{fullhash}{12ca05637c4ddee2523f1218bdb7cd93}
+      \strng{bibnamehash}{12ca05637c4ddee2523f1218bdb7cd93}
+      \strng{authorbibnamehash}{12ca05637c4ddee2523f1218bdb7cd93}
+      \strng{authornamehash}{12ca05637c4ddee2523f1218bdb7cd93}
+      \strng{authorfullhash}{12ca05637c4ddee2523f1218bdb7cd93}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Si les changements environnementaux liés à l’humanité ne font aucun doute, leur ampleur et leurs conséquences ne sont pas si faciles à évaluer. Pour le savant, il s’agit d’établir les liens de causalité et les impacts avec le plus de précision possible, puis de poser un diagnostic. Le présent dictionnaire s’appuie sur le concept récent d’« anthropocène », qui a le mérite, qu’on l’approuve ou non, de relancer la réflexion sur les rapports entre nature et société, entre constat scientifique et action politique, à travers une approche spatiale et territoriale. Procédant de façon critique, et fruit d’une démarche collective, cette vaste entreprise éditoriale se fonde sur une pratique de terrain, attentive aux détails et méfiante à l’égard des discours pré-établis. Parmi les 330 notices, plusieurs thèmes sont au cœur des débats contemporains (biodiversité, changement climatique…), d’autres se réfèrent à des courants de pensée (écoféminisme, transhumanisme…). Les concepts mobilisés abordent des questions politiques (capitalocène, justice environnementale…), philosophiques (catastrophes, Gaïa…), ou épistémologiques (finitude, population…). Des notions classiques sont réinterrogées (nature, ressource…), tandis que des concepts sont précisés (biosphère, écosystème…). D’autres notices discutent de mécanismes environnementaux (érosion, tsunami…), de pratiques récentes (agroécologie, ville durable…), de phénomènes territorialisés (déforestation, désertification…) ou d’artefacts (aéroport, autoroute…). Certaines examinent des lieux emblématiques (Amazonie, Fukushima…). D’autres, enfin, offrent un regard original sur l’anthropocène, sa faune (chien, ours…), ses mutations socio-économiques, institutionnelles ou politiques (biopiraterie, {ZAD}…).}
+      \field{day}{4}
+      \field{edition}{{CNRS} Editions}
+      \field{isbn}{978-2-271-12427-2}
+      \field{langid}{french}
+      \field{month}{6}
+      \field{pagetotal}{944}
+      \field{series}{{CNRS} Dictionnaires}
+      \field{title}{Dictionnaire critique de l'anthropocène}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \keyw{environnement,écologie,\_nettoyé,société,sciences de la Terre}
+    \endentry
+    \entry{collectif_de_journalistes_forever_2023}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7185abab06984e54fd27ce7a95fa69ea}{%
+           family={{Collectif de journalistes}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{7185abab06984e54fd27ce7a95fa69ea}
+      \strng{fullhash}{7185abab06984e54fd27ce7a95fa69ea}
+      \strng{bibnamehash}{7185abab06984e54fd27ce7a95fa69ea}
+      \strng{authorbibnamehash}{7185abab06984e54fd27ce7a95fa69ea}
+      \strng{authornamehash}{7185abab06984e54fd27ce7a95fa69ea}
+      \strng{authorfullhash}{7185abab06984e54fd27ce7a95fa69ea}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{french}
+      \field{title}{The Forever Pollution Project}
+      \field{titleaddon}{The Forever Pollution Project, Journalists tracking {PFAS} across Europe}
+      \field{urlday}{1}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://foreverpollution.eu
+      \endverb
+      \verb{url}
+      \verb https://foreverpollution.eu
+      \endverb
+    \endentry
+    \entry{combe_catastrophe_2020}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ed0ebe68647235251b6d0128d0c3d0e8}{%
+           family={Combe},
+           familyi={C\bibinitperiod},
+           given={Matthieu},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ed0ebe68647235251b6d0128d0c3d0e8}
+      \strng{fullhash}{ed0ebe68647235251b6d0128d0c3d0e8}
+      \strng{bibnamehash}{ed0ebe68647235251b6d0128d0c3d0e8}
+      \strng{authorbibnamehash}{ed0ebe68647235251b6d0128d0c3d0e8}
+      \strng{authornamehash}{ed0ebe68647235251b6d0128d0c3d0e8}
+      \strng{authorfullhash}{ed0ebe68647235251b6d0128d0c3d0e8}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{La catastrophe de Seveso en 1976, un accident industriel historique. Conséquences des dioxines libérées sur la pollution de l'environnement et la santé.}
+      \field{day}{7}
+      \field{langid}{french}
+      \field{month}{1}
+      \field{title}{Catastrophe de Seveso, Accident industriel}
+      \field{titleaddon}{Natura Sciences}
+      \field{urlday}{8}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/Users/charlotteberthier/Zotero/storage/NBME6H76/catastrophe-de-seveso.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.natura-sciences.com/comprendre/catastrophe-de-seveso.html
+      \endverb
+      \verb{url}
+      \verb https://www.natura-sciences.com/comprendre/catastrophe-de-seveso.html
+      \endverb
+    \endentry
+    \entry{desrosieres_politique_2010}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4edb3a4982ad01cc7ba5a5d85f51c59e}{%
+           family={Desrosières},
+           familyi={D\bibinitperiod},
+           given={Alain},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {La Découverte/Poche}%
+      }
+      \strng{namehash}{4edb3a4982ad01cc7ba5a5d85f51c59e}
+      \strng{fullhash}{4edb3a4982ad01cc7ba5a5d85f51c59e}
+      \strng{bibnamehash}{4edb3a4982ad01cc7ba5a5d85f51c59e}
+      \strng{authorbibnamehash}{4edb3a4982ad01cc7ba5a5d85f51c59e}
+      \strng{authornamehash}{4edb3a4982ad01cc7ba5a5d85f51c59e}
+      \strng{authorfullhash}{4edb3a4982ad01cc7ba5a5d85f51c59e}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{978-2-7071-6504-6}
+      \field{langid}{french}
+      \field{pagetotal}{456}
+      \field{shorttitle}{La politique des grands nombres}
+      \field{title}{La politique des grands nombres: histoire de la raison statistique}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \keyw{\_nettoyé}
+    \endentry
+    \entry{ept_plaine_commune_plui_2020}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=218c39b422606505c6800a046be9f1f4}{%
+           family={{EPT Plaine Commune}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{218c39b422606505c6800a046be9f1f4}
+      \strng{fullhash}{218c39b422606505c6800a046be9f1f4}
+      \strng{bibnamehash}{218c39b422606505c6800a046be9f1f4}
+      \strng{authorbibnamehash}{218c39b422606505c6800a046be9f1f4}
+      \strng{authornamehash}{218c39b422606505c6800a046be9f1f4}
+      \strng{authorfullhash}{218c39b422606505c6800a046be9f1f4}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{L’État Initial de l’Environnement vise à faire l’état des lieux exhaustifs des thématiques environnementales indiquées par le code de l’urbanisme. L’État Initial de l’Environnement est organisé en 4 grandes parties : 1. Le milieu physique de Plaine Commune, en analysant les sols, l’hydrologie ou encore le climat 2. L’environnement naturel et paysager en analysant notamment l’occupation des sols 3. L’environnement urbain en analysant le fonctionnement du territoire en énergie, assainissement ou en gestion des déchets 4. La santé des populations en analysant notamment l’exposition des populations aux dangers pour leur santé}
+      \field{day}{25}
+      \field{month}{2}
+      \field{title}{{PLUI} Plaine Commune, Etat initial de l'environnement}
+      \field{type}{Rapport de présentation}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb 1-3_Etat_Initial_de_l_Environnement.pdf:/Users/charlotteberthier/Zotero/storage/IMRWUNUH/1-3_Etat_Initial_de_l_Environnement.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{fressoz_decret_2011}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d812206f14a88952b7f35894b00927d0}{%
+           family={Fressoz},
+           familyi={F\bibinitperiod},
+           given={Jean-Baptiste},
+           giveni={J\bibinithyphendelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d812206f14a88952b7f35894b00927d0}
+      \strng{fullhash}{d812206f14a88952b7f35894b00927d0}
+      \strng{bibnamehash}{d812206f14a88952b7f35894b00927d0}
+      \strng{authorbibnamehash}{d812206f14a88952b7f35894b00927d0}
+      \strng{authornamehash}{d812206f14a88952b7f35894b00927d0}
+      \strng{authorfullhash}{d812206f14a88952b7f35894b00927d0}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Le décret de 1810 est la traduction de la volonté de l’époque de favoriser l’industrialisation de la France. Il instaure une régulation à la fois administrative et libérale, fondée sur l’autorisation administrative et le recours aux juridictions civiles pour régler les conflits avec les riverains. L’une de ses conséquences (souvent méconnue) est la libéralisation de l’environnement, comprise comme la possibilité reconnue aux industriels de compenser financièrement les dommages résultant de leurs activités. La nature financière de la régulation environnementale instaurée par le décret n’est pas si éloignée de celle qui prévaut aujourd’hui : la nature a un prix ou, du moins, il faut lui en donner un pour permettre la détermination d’un niveau économiquement « idéal » de pollution.}
+      \field{day}{1}
+      \field{issn}{1268-4783}
+      \field{journaltitle}{Annales des Mines - Responsabilité et environnement}
+      \field{langid}{french}
+      \field{month}{4}
+      \field{number}{2}
+      \field{shorttitle}{Le décret de 1810}
+      \field{title}{Le décret de 1810 : la libéralisation des « choses environnantes »:}
+      \field{urlday}{20}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{volume}{N° 62}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{16\bibrangedash 22}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.3917/re.062.0016
+      \endverb
+      \verb{file}
+      \verb Fressoz - 2011 - Le décret de 1810 la libéralisation des « choses.pdf:/Users/charlotteberthier/Zotero/storage/P2TYBR55/Fressoz - 2011 - Le décret de 1810 la libéralisation des « choses.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.cairn.info/revue-responsabilite-et-environnement1-2011-2-page-16.htm?ref=doi
+      \endverb
+      \verb{url}
+      \verb https://www.cairn.info/revue-responsabilite-et-environnement1-2011-2-page-16.htm?ref=doi
+      \endverb
+      \keyw{\_nettoyé}
+    \endentry
+    \entry{gallet_atlas_2020}{book}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=abe5c7fd91dc2edda4f7a0d4000c746e}{%
+           family={Gallet},
+           familyi={G\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=52032e83fcb5fc348b022c50689bfcb4}{%
+           family={Piolet},
+           familyi={P\bibinitperiod},
+           given={Hugues},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=99503d677cf7bf0dbbfbf133ba649a72}{%
+           family={Behar},
+           familyi={B\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9397baf027735ec32321f902135f7b39}{%
+           family={Delpirou},
+           familyi={D\bibinitperiod},
+           given={Aurélien},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Éditions Autrement}%
+      }
+      \strng{namehash}{9d9422a048a560a0cfbd3de0e2df52ab}
+      \strng{fullhash}{2f53308ae47d682afe310fe78de0c3aa}
+      \strng{bibnamehash}{9d9422a048a560a0cfbd3de0e2df52ab}
+      \strng{authorbibnamehash}{9d9422a048a560a0cfbd3de0e2df52ab}
+      \strng{authornamehash}{9d9422a048a560a0cfbd3de0e2df52ab}
+      \strng{authorfullhash}{2f53308ae47d682afe310fe78de0c3aa}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{978-2-7467-5511-6}
+      \field{note}{Num Pages: 1 Series: Collection Atlas/Monde}
+      \field{shorttitle}{Atlas du Grand Paris}
+      \field{title}{Atlas du Grand Paris: une métropole en mutations}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \keyw{France Paris,\_nettoyé,Atlases,City planning,Maps,Paris (France)}
+    \endentry
+    \entry{grataloup_christian_introduction_2023}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=94e96ee9a4fbc4876e3f2349fc81e9fe}{%
+           family={{Grataloup, Christian}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{94e96ee9a4fbc4876e3f2349fc81e9fe}
+      \strng{fullhash}{94e96ee9a4fbc4876e3f2349fc81e9fe}
+      \strng{bibnamehash}{94e96ee9a4fbc4876e3f2349fc81e9fe}
+      \strng{authorbibnamehash}{94e96ee9a4fbc4876e3f2349fc81e9fe}
+      \strng{authornamehash}{94e96ee9a4fbc4876e3f2349fc81e9fe}
+      \strng{authorfullhash}{94e96ee9a4fbc4876e3f2349fc81e9fe}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{La « géohistoire », expression née sous la plume de Fernand Braudel, s’intéresse aux interactions entre les dimensions géographique et historique pour proposer une analyse des sociétés sur le temps long et à différentes échelles. À l’ère de la...}
+      \field{langid}{french}
+      \field{title}{Introduction à la géohistoire}
+      \field{urlday}{8}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/Users/charlotteberthier/Zotero/storage/8QXN496C/introduction-geohistoire-0.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.dunod.com/histoire-geographie-et-sciences-politiques/introduction-geohistoire-0
+      \endverb
+      \verb{url}
+      \verb https://www.dunod.com/histoire-geographie-et-sciences-politiques/introduction-geohistoire-0
+      \endverb
+    \endentry
+    \entry{gravier_deux_2018}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d2c6e4dd6f710be8fb1310b25e7155f3}{%
+           family={Gravier},
+           familyi={G\bibinitperiod},
+           given={Julie},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Paris 1 Panthéon Sorbonne}%
+      }
+      \strng{namehash}{d2c6e4dd6f710be8fb1310b25e7155f3}
+      \strng{fullhash}{d2c6e4dd6f710be8fb1310b25e7155f3}
+      \strng{bibnamehash}{d2c6e4dd6f710be8fb1310b25e7155f3}
+      \strng{authorbibnamehash}{d2c6e4dd6f710be8fb1310b25e7155f3}
+      \strng{authornamehash}{d2c6e4dd6f710be8fb1310b25e7155f3}
+      \strng{authorfullhash}{d2c6e4dd6f710be8fb1310b25e7155f3}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{french}
+      \field{title}{Deux mille ans d'une ville en système}
+      \field{type}{phdthesis}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb Gravier - Deux mille ans d'une ville en système.pdf:/Users/charlotteberthier/Zotero/storage/RFB6YC4M/Gravier - Deux mille ans d'une ville en système.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{gribaudi_ruptures_2009}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bc3d8d5459ede7056fe6f7fcf1f2d338}{%
+           family={Gribaudi},
+           familyi={G\bibinitperiod},
+           given={Maurizio},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bc3d8d5459ede7056fe6f7fcf1f2d338}
+      \strng{fullhash}{bc3d8d5459ede7056fe6f7fcf1f2d338}
+      \strng{bibnamehash}{bc3d8d5459ede7056fe6f7fcf1f2d338}
+      \strng{authorbibnamehash}{bc3d8d5459ede7056fe6f7fcf1f2d338}
+      \strng{authornamehash}{bc3d8d5459ede7056fe6f7fcf1f2d338}
+      \strng{authorfullhash}{bc3d8d5459ede7056fe6f7fcf1f2d338}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{L’évolution de Paris au cours de la période contemporaine est souvent lue et interprétée comme un processus unique au cours duquel la ville de l’Ancien Régime se restructure pour se transformer progressivement en capitale du xixe siècle. Cette vision, bien connue et presque iconique, conjugue le développement des riches quartiers de l’Ouest avec l’essor de nouvelles formes architecturales et commerciales. Moins connue est la formation des pratiques et des images de cette nouvelle modernité urbaine ; celle-ci s’associe à la perte de lisibilité pour la partie la plus ancienne et populaire de la ville. Dans les représentations des contemporains, ces quartiers constituent un espace structurel immobile où s’entasse de manière désordonnée une population bariolée de commerçants, d’artisans, de manœuvres et de marginaux. Une étude approfondie, menée sur un îlot du centre parisien entre la fin du xviiie et la première moitié du xixe siècle, montre que, loin d’être délaissés et chaotiques, ces anciens quartiers se révèlent être des lieux dynamiques qui témoignent de l’essor d’une modernité « autre » que celle développée dans les nouveaux quartiers de l’Ouest.}
+      \field{day}{31}
+      \field{issn}{0982-1783}
+      \field{journaltitle}{Histoire \& mesure}
+      \field{month}{12}
+      \field{note}{Publisher: Éditions de l’{EHESS}}
+      \field{shortjournal}{{OpenAIRE}}
+      \field{shorttitle}{Ruptures et continuités dans l’évolution de l’espace parisien. L’îlot de la Trinité entre les xviiie et xixe siècles}
+      \field{title}{Ruptures et continuités dans l’évolution de l’espace parisien. L’îlot de la Trinité entre les xviiie et xixe siècles: {OpenAIRE}}
+      \field{year}{2009}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.4000/histoiremesure.3959
+      \endverb
+      \verb{file}
+      \verb Texte intégral:/Users/charlotteberthier/Zotero/storage/PP9Z4KEP/Gribaudi - 2009 - Ruptures et continuités dans l’évolution de l’espa.pdf:application/pdf
+      \endverb
+      \keyw{Europe,France,histoire urbaine,Paris}
+    \endentry
+    \entry{guillerme_dangereux_2004}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=067869caa27766728b325867d3474690}{%
+           family={Guillerme},
+           familyi={G\bibinitperiod},
+           given={André},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d4c3ff548ca58127ea7d1c0cb6556523}{%
+           family={Lefort},
+           familyi={L\bibinitperiod},
+           given={Anne-Cécile},
+           giveni={A\bibinithyphendelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fa503069a1d15c59eb27e36245d972ec}{%
+           family={Jigaudon},
+           familyi={J\bibinitperiod},
+           given={Gérard},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Seyssel}%
+      }
+      \list{publisher}{1}{%
+        {Champ Vallon}%
+      }
+      \strng{namehash}{06ae7e5b225b1bff1216c4a826ba4e7d}
+      \strng{fullhash}{06ae7e5b225b1bff1216c4a826ba4e7d}
+      \strng{bibnamehash}{06ae7e5b225b1bff1216c4a826ba4e7d}
+      \strng{authorbibnamehash}{06ae7e5b225b1bff1216c4a826ba4e7d}
+      \strng{authornamehash}{06ae7e5b225b1bff1216c4a826ba4e7d}
+      \strng{authorfullhash}{06ae7e5b225b1bff1216c4a826ba4e7d}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{978-2-87673-409-8}
+      \field{pagetotal}{343}
+      \field{series}{Collection Milieux}
+      \field{shorttitle}{Dangereux, insalubres et incommodes}
+      \field{title}{Dangereux, insalubres et incommodes: paysages industriels en banlieue parisienne, {XIXe}-{XXe} siècles}
+      \field{year}{2004}
+      \field{dateera}{ce}
+      \keyw{History,France,Environmental aspects History,France Paris,Industrial policy,Industries,Pollution,Urban ecology (Sociology),\_nettoyé}
+    \endentry
+    \entry{horel_stephane_methodology_2023}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=35c830ad728ee9089c324b0bf21d23c6}{%
+           family={{Horel Stéphane}},
+           familyi={H\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Le Monde}%
+      }
+      \strng{namehash}{35c830ad728ee9089c324b0bf21d23c6}
+      \strng{fullhash}{35c830ad728ee9089c324b0bf21d23c6}
+      \strng{bibnamehash}{35c830ad728ee9089c324b0bf21d23c6}
+      \strng{authorbibnamehash}{35c830ad728ee9089c324b0bf21d23c6}
+      \strng{authornamehash}{35c830ad728ee9089c324b0bf21d23c6}
+      \strng{authorfullhash}{35c830ad728ee9089c324b0bf21d23c6}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{23}
+      \field{langid}{french}
+      \field{month}{2}
+      \field{title}{Methodology : the map of forever pollution}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://foreverpollution.eu/methodology/peer-reviewed/
+      \endverb
+      \verb{url}
+      \verb https://foreverpollution.eu/methodology/peer-reviewed/
+      \endverb
+    \endentry
+    \entry{horel_stephane__2023}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=629b69f83a73da9498e9ea8bab602b66}{%
+           family={{Horel, Stéphane}},
+           familyi={H\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=8b2bc56632637590138e24ba6ea17dba}{%
+           family={{Dagorn, Gary}},
+           familyi={D\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=a34efb56638b523c96400d787752cc1f}{%
+           family={{Aubert, Raphaëlle}},
+           familyi={A\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=b4fdb95894c3586e4c8da785ee05feb0}{%
+           family={{Martignon, Luc}},
+           familyi={M\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=e842bae7204854d13174be348c298680}{%
+           family={{Steffen Thomas}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{50d3e99cceb5da7b8e2fd39234396c8b}
+      \strng{fullhash}{9134fd809003e8456a2b6a905f06d83d}
+      \strng{bibnamehash}{50d3e99cceb5da7b8e2fd39234396c8b}
+      \strng{authorbibnamehash}{50d3e99cceb5da7b8e2fd39234396c8b}
+      \strng{authornamehash}{50d3e99cceb5da7b8e2fd39234396c8b}
+      \strng{authorfullhash}{9134fd809003e8456a2b6a905f06d83d}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{23}
+      \field{journaltitle}{Le Monde}
+      \field{langid}{french}
+      \field{month}{2}
+      \field{title}{« Polluants éternels » : explorez la carte d’Europe de la contamination par les {PFAS}}
+      \field{urlday}{8}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb « Polluants éternels » \: explorez la carte d’Europe de la contamination par les PFAS:/Users/charlotteberthier/Zotero/storage/VY3IRXEH/polluants-eternels-explorez-la-carte-d-europe-de-la-contamination-par-les-pfas_6162942_4355770.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.lemonde.fr/les-decodeurs/article/2023/02/23/polluants-eternels-explorez-la-carte-d-europe-de-la-contamination-par-les-pfas_6162942_4355770.html
+      \endverb
+      \verb{url}
+      \verb https://www.lemonde.fr/les-decodeurs/article/2023/02/23/polluants-eternels-explorez-la-carte-d-europe-de-la-contamination-par-les-pfas_6162942_4355770.html
+      \endverb
+    \endentry
+    \entry{husson_jean-louis_moins_2009}{report}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=cfaca3e05b9eaa07875bf84d2f3366d6}{%
+           family={{Husson, Jean-Louis}},
+           familyi={H\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=e83c905c706b12a6e39db99e7c474ab9}{%
+           family={{Roméra, Anne-Marie}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Institut d'Aménagement et d'Urbanisme d'ïle-de-France}%
+      }
+      \strng{namehash}{b2f42aea4d88ed089a5e584eec0b11e8}
+      \strng{fullhash}{b2f42aea4d88ed089a5e584eec0b11e8}
+      \strng{bibnamehash}{b2f42aea4d88ed089a5e584eec0b11e8}
+      \strng{authorbibnamehash}{b2f42aea4d88ed089a5e584eec0b11e8}
+      \strng{authornamehash}{b2f42aea4d88ed089a5e584eec0b11e8}
+      \strng{authorfullhash}{b2f42aea4d88ed089a5e584eec0b11e8}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{En dix ans, le phénomène des friches industrielles s’est nettement réduit. La pression du marché, mais aussi les besoins en logements poussent à la conversion des sites. En revanche, de nouvelles formes de friches apparaissent.}
+      \field{month}{4}
+      \field{number}{467}
+      \field{title}{Moins de friches industrielles en Île-de-France}
+      \field{type}{Note Rapide}
+      \field{year}{2009}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb IAU_NOte_rapide_467_FrichesIndustrielles.pdf:/Users/charlotteberthier/Zotero/storage/W46CU3JC/IAU_NOte_rapide_467_FrichesIndustrielles.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{ineris_historique_nodate}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=50d19973802e81bbb50dee4d5427acf4}{%
+           family={{INERIS}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{50d19973802e81bbb50dee4d5427acf4}
+      \strng{fullhash}{50d19973802e81bbb50dee4d5427acf4}
+      \strng{bibnamehash}{50d19973802e81bbb50dee4d5427acf4}
+      \strng{authorbibnamehash}{50d19973802e81bbb50dee4d5427acf4}
+      \strng{authornamehash}{50d19973802e81bbb50dee4d5427acf4}
+      \strng{authorfullhash}{50d19973802e81bbb50dee4d5427acf4}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Historique de l'inspection des installations classées}
+      \field{urlday}{8}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Historique | AIDA:/Users/charlotteberthier/Zotero/storage/CRAV8GRJ/historique.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://aida.ineris.fr/inspection-icpe/inspection-installations-classees/presentation/historique
+      \endverb
+      \verb{url}
+      \verb https://aida.ineris.fr/inspection-icpe/inspection-installations-classees/presentation/historique
+      \endverb
+    \endentry
+    \entry{inrae_one_nodate}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2a790234ccddac43462e2d84bb385e27}{%
+           family={{INRAE}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{2a790234ccddac43462e2d84bb385e27}
+      \strng{fullhash}{2a790234ccddac43462e2d84bb385e27}
+      \strng{bibnamehash}{2a790234ccddac43462e2d84bb385e27}
+      \strng{authorbibnamehash}{2a790234ccddac43462e2d84bb385e27}
+      \strng{authornamehash}{2a790234ccddac43462e2d84bb385e27}
+      \strng{authorfullhash}{2a790234ccddac43462e2d84bb385e27}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Le concept One Health, c’est penser la santé à l’interface entre celle des animaux, de l’Homme et de leur environnement, à l’échelle locale nationale et mondiale. Cette manière d’aborder la santé dans le contexte mondial actuel de la pandémie liée à la Covid 19, permet de raisonner l’ensemble du système et trouver des solutions qui répondent à la fois à des enjeux de santé et des enjeux environnementaux.}
+      \field{langid}{french}
+      \field{title}{One Health, une seule santé}
+      \field{titleaddon}{{INRAE} Institutionnel}
+      \field{urlday}{8}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/Users/charlotteberthier/Zotero/storage/X7LY2Q7V/one-health-seule-sante.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.inrae.fr/alimentation-sante-globale/one-health-seule-sante
+      \endverb
+      \verb{url}
+      \verb https://www.inrae.fr/alimentation-sante-globale/one-health-seule-sante
+      \endverb
+    \endentry
+    \entry{institut_paris_regions_observatoire_2021}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=54406911dc553bb4116ae797f7c225e1}{%
+           family={{Institut Paris Regions}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{54406911dc553bb4116ae797f7c225e1}
+      \strng{fullhash}{54406911dc553bb4116ae797f7c225e1}
+      \strng{bibnamehash}{54406911dc553bb4116ae797f7c225e1}
+      \strng{authorbibnamehash}{54406911dc553bb4116ae797f7c225e1}
+      \strng{authornamehash}{54406911dc553bb4116ae797f7c225e1}
+      \strng{authorfullhash}{54406911dc553bb4116ae797f7c225e1}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{french}
+      \field{month}{11}
+      \field{title}{Observatoire des friches franciliennes}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.institutparisregion.fr/amenagement-et-territoires/observatoire-des-friches-franciliennes/
+      \endverb
+      \verb{url}
+      \verb https://www.institutparisregion.fr/amenagement-et-territoires/observatoire-des-friches-franciliennes/
+      \endverb
+    \endentry
+    \entry{jarrige_contamination_2017}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=88919a2c13ec179baa7e93bfc9863d7e}{%
+           family={Jarrige},
+           familyi={J\bibinitperiod},
+           given={François},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=850d2bc88ec7a8c81c64ba2cfab0fb57}{%
+           family={Le\bibnamedelima Roux},
+           familyi={L\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Le Seuil}%
+      }
+      \strng{namehash}{9086d422c6b6a32adca636727037b906}
+      \strng{fullhash}{9086d422c6b6a32adca636727037b906}
+      \strng{bibnamehash}{9086d422c6b6a32adca636727037b906}
+      \strng{authorbibnamehash}{9086d422c6b6a32adca636727037b906}
+      \strng{authornamehash}{9086d422c6b6a32adca636727037b906}
+      \strng{authorfullhash}{9086d422c6b6a32adca636727037b906}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Autrefois sources de nuisances locales circonscrites, les effets des activités humaines sur l’environnement se sont transformés en pollutions globales. Le climat se réchauffe, les mers s’acidifient, les espèces disparaissent, les corps s’altèrent : en rendre compte d’un point de vue historique permet de ne pas sombrer dans la sidération ni dans le découragement face à un processus qui semble devenu inéluctable. Car le grand mouvement de contamination du monde qui s’ouvre avec l’industrialisation est avant tout un fait social et politique, marqué par des cycles successifs, des rapports de force, des inerties, des transformations culturelles. En embrassant l’histoire des pollutions sur trois cents ans, à l’échelle mondiale, François Jarrige et Thomas Le Roux explorent les conflits et l’organisation des pouvoirs à l’âge industriel, mais aussi les dynamiques qui ont modelé la modernité capitaliste et ses imaginaires du progrès.}
+      \field{isbn}{978-2-02-108576-1}
+      \field{pagetotal}{480}
+      \field{series}{L'Univers historique}
+      \field{shorttitle}{La Contamination du monde}
+      \field{title}{La Contamination du monde. Une histoire des pollutions à l'âge industriel}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \keyw{\_publication majeure,\_nettoyé}
+    \endentry
+    \entry{le_monde_deputes_2024}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bcaba6040c88a3bdec4ab3257d9bce3d}{%
+           family={{Le Monde}},
+           familyi={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{bcaba6040c88a3bdec4ab3257d9bce3d}
+      \strng{fullhash}{bcaba6040c88a3bdec4ab3257d9bce3d}
+      \strng{bibnamehash}{bcaba6040c88a3bdec4ab3257d9bce3d}
+      \strng{authorbibnamehash}{bcaba6040c88a3bdec4ab3257d9bce3d}
+      \strng{authornamehash}{bcaba6040c88a3bdec4ab3257d9bce3d}
+      \strng{authorfullhash}{bcaba6040c88a3bdec4ab3257d9bce3d}
+      \field{extraname}{1}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Malgré l’opposition du gouvernement, la proposition de loi visant à interdire l’utilisation des {PFAS} a été adoptée, jeudi, par l’Assemblée nationale. L’exemption des poêles antiadhésives a été saluée par l’industriel {SEB}, mobilisé contre le texte.}
+      \field{day}{4}
+      \field{journaltitle}{Le Monde.fr}
+      \field{langid}{french}
+      \field{month}{4}
+      \field{title}{Les députés votent une première interdiction des « polluants éternels », mais épargnent les ustensiles de cuisine}
+      \field{urlday}{8}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/Users/charlotteberthier/Zotero/storage/NATK3GKJ/les-deputes-votent-une-interdiction-des-polluants-eternels-sauf-dans-les-ustensiles-alimentaire.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.lemonde.fr/planete/article/2024/04/04/les-deputes-votent-une-interdiction-des-polluants-eternels-sauf-dans-les-ustensiles-alimentaires_6226016_3244.html
+      \endverb
+      \verb{url}
+      \verb https://www.lemonde.fr/planete/article/2024/04/04/les-deputes-votent-une-interdiction-des-polluants-eternels-sauf-dans-les-ustensiles-alimentaires_6226016_3244.html
+      \endverb
+    \endentry
+    \entry{le_monde_pfas_2024}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bcaba6040c88a3bdec4ab3257d9bce3d}{%
+           family={{Le Monde}},
+           familyi={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{bcaba6040c88a3bdec4ab3257d9bce3d}
+      \strng{fullhash}{bcaba6040c88a3bdec4ab3257d9bce3d}
+      \strng{bibnamehash}{bcaba6040c88a3bdec4ab3257d9bce3d}
+      \strng{authorbibnamehash}{bcaba6040c88a3bdec4ab3257d9bce3d}
+      \strng{authornamehash}{bcaba6040c88a3bdec4ab3257d9bce3d}
+      \strng{authorfullhash}{bcaba6040c88a3bdec4ab3257d9bce3d}
+      \field{extraname}{2}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Les sénateurs ont en revanche refusé de réintroduire dans le texte l’interdiction des {PFAS} dans les ustensiles de cuisine.}
+      \field{day}{30}
+      \field{journaltitle}{Le Monde.fr}
+      \field{langid}{french}
+      \field{month}{5}
+      \field{shorttitle}{{PFAS}}
+      \field{title}{{PFAS} : le Sénat adopte à son tour la proposition de loi visant à restreindre l’usage des « polluants éternels »}
+      \field{urlday}{8}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/Users/charlotteberthier/Zotero/storage/JYBFKCTA/pfas-le-senat-adopte-a-son-tour-la-proposition-de-loi-visant-a-restreindre-l-usage-des-polluant.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.lemonde.fr/planete/article/2024/05/30/pfas-le-senat-adopte-a-son-tour-la-proposition-de-loi-visant-a-restreindre-l-usage-des-polluants-eternels_6236364_3244.html
+      \endverb
+      \verb{url}
+      \verb https://www.lemonde.fr/planete/article/2024/05/30/pfas-le-senat-adopte-a-son-tour-la-proposition-de-loi-visant-a-restreindre-l-usage-des-polluants-eternels_6236364_3244.html
+      \endverb
+    \endentry
+    \entry{le_roux_polluants_2023}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=850d2bc88ec7a8c81c64ba2cfab0fb57}{%
+           family={Le\bibnamedelima Roux},
+           familyi={L\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{850d2bc88ec7a8c81c64ba2cfab0fb57}
+      \strng{fullhash}{850d2bc88ec7a8c81c64ba2cfab0fb57}
+      \strng{bibnamehash}{850d2bc88ec7a8c81c64ba2cfab0fb57}
+      \strng{authorbibnamehash}{850d2bc88ec7a8c81c64ba2cfab0fb57}
+      \strng{authornamehash}{850d2bc88ec7a8c81c64ba2cfab0fb57}
+      \strng{authorfullhash}{850d2bc88ec7a8c81c64ba2cfab0fb57}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{27}
+      \field{journaltitle}{Terrestres}
+      \field{langid}{french}
+      \field{month}{3}
+      \field{title}{Les polluants éternels ne sont pas intemporels}
+      \field{urlday}{19}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.terrestres.org/2023/03/27/les-polluants-eternels-ne-sont-pas-intemporels/
+      \endverb
+      \verb{url}
+      \verb https://www.terrestres.org/2023/03/27/les-polluants-eternels-ne-sont-pas-intemporels/
+      \endverb
+      \keyw{industrie,pollution,industrialisation,\_nettoyé,\_lu,pfas}
+    \endentry
+    \entry{lette_debordements_2013}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=70409513f83848a3f87a3530e78b28dd}{%
+           family={Letté},
+           familyi={L\bibinitperiod},
+           given={Michel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=faa7801e35869a6036b31dfe9f7ed67d}{%
+           family={{Le Roux, Thomas}},
+           familyi={L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Rennes}%
+      }
+      \list{publisher}{1}{%
+        {Presses universitaires de Rennes}%
+      }
+      \strng{namehash}{8d6a616979d26ad798ba3ffdda186803}
+      \strng{fullhash}{8d6a616979d26ad798ba3ffdda186803}
+      \strng{bibnamehash}{8d6a616979d26ad798ba3ffdda186803}
+      \strng{authorbibnamehash}{8d6a616979d26ad798ba3ffdda186803}
+      \strng{authornamehash}{8d6a616979d26ad798ba3ffdda186803}
+      \strng{authorfullhash}{8d6a616979d26ad798ba3ffdda186803}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Les liaisons parfois dangereuses que les activités humaines entretiennent avec l’environnement marquent fortement l’expansion de l’industrie depuis le {XVIIIe} siècle. Dans cet ouvrage, historiens, sociologues, politistes et anthropologues croisent différentes propositions de lecture des conflits provoqués hier et aujourd’hui par les impacts environnementaux de la production passée en France et en Belgique francophone. Partant plus particulièrement des débordements industriels et de leurs contestations, les auteurs préconisent d’élargir l’histoire de la régulation des risques, nuisances et pollutions industrielles à celle, résolument plus transversale, de la conflictualité environnementale. Dans cette optique, chaque texte approfondit l’analyse d’un ou de plusieurs des modes d’existence de ces débordements industriels dans la cité, en abordant ou combinant quelques-uns des questionnements spécifiques au domaine de la conflictualité environnementale : nature des enjeux et jeux d’acteurs, statuts et fonctions des territoires, dispositifs à l’origine des débordements et de leur contestation, processus d’émergence du conflit et de sa résolution, négociations à l’œuvre, modalités d’expertise et de qualification, répertoires d’actions et grammaires de la protestation, temporalités et temps du conflit, asymétries des rapports et structures de domination locale… Les perspectives dressées par ces études ne forment toutefois pas le livre noir de l’industrie. Partant de cas concrets, en s’appuyant sur des travaux de terrain et l’exploitation minutieuse des archives, la proposition invite au contraire à dépasser la seule vision antagoniste du conflit impliquant une opposition entre des catégories d’acteurs et des frontières stables et suggère de dénouer les intrications complexes entre logiques de production et contraintes environnementales, l’une et l’autre s’avérant finalement toujours l’objet de négociations permanentes entre intérêts contradictoires.}
+      \field{isbn}{978-2-7535-6934-8}
+      \field{pagetotal}{402}
+      \field{series}{Histoire}
+      \field{shorttitle}{Débordements industriels}
+      \field{title}{Débordements industriels : Environnement, territoire et conflit ({XVIIIe}-{XXIe} siècle)}
+      \field{urlday}{19}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://books.openedition.org/pur/111245
+      \endverb
+      \verb{url}
+      \verb https://books.openedition.org/pur/111245
+      \endverb
+      \keyw{\_nettoyé,environnement,histoire industrielle,industrie,relu,territoire}
+    \endentry
+    \entry{massard-guilbaud_genevieve_histoire_2010}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=162f60b6cd430d5658a859668e4eaa46}{%
+           family={{Massard-Guilbaud, Geneviève}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Éditions de l'École des hautes études en sciences sociales}%
+      }
+      \strng{namehash}{162f60b6cd430d5658a859668e4eaa46}
+      \strng{fullhash}{162f60b6cd430d5658a859668e4eaa46}
+      \strng{bibnamehash}{162f60b6cd430d5658a859668e4eaa46}
+      \strng{authorbibnamehash}{162f60b6cd430d5658a859668e4eaa46}
+      \strng{authornamehash}{162f60b6cd430d5658a859668e4eaa46}
+      \strng{authorfullhash}{162f60b6cd430d5658a859668e4eaa46}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{978-2-7132-2237-5}
+      \field{note}{{OCLC}: ocn643009221}
+      \field{number}{17}
+      \field{pagetotal}{403}
+      \field{series}{En temps \& lieux}
+      \field{shorttitle}{Histoire de la pollution industrielle}
+      \field{title}{Histoire de la pollution industrielle: France, 1789-1914}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \keyw{France,Environmental aspects History,19th century,Air,Air quality management,Government policy History,Industrialization,Pollution History,\_nettoyé}
+    \endentry
+    \entry{ministere_de_lenvironnement_explosion_2006}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6b32218902340f7be51bdfb7f0d648f7}{%
+           family={{Ministère de l'Environnement}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Ministère chargé de l'Environnement / {DPPR} / {SEI} / {BARPI}}%
+      }
+      \strng{namehash}{6b32218902340f7be51bdfb7f0d648f7}
+      \strng{fullhash}{6b32218902340f7be51bdfb7f0d648f7}
+      \strng{bibnamehash}{6b32218902340f7be51bdfb7f0d648f7}
+      \strng{authorbibnamehash}{6b32218902340f7be51bdfb7f0d648f7}
+      \strng{authornamehash}{6b32218902340f7be51bdfb7f0d648f7}
+      \strng{authorfullhash}{6b32218902340f7be51bdfb7f0d648f7}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{1}
+      \field{number}{5692}
+      \field{title}{Explosion de la poudrerie de Grenelle Le 31 août 1794}
+      \field{type}{Fiche accident industriel}
+      \field{year}{2006}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb A5692_ips05692_001.pdf:/Users/charlotteberthier/Zotero/storage/6VEMK29V/A5692_ips05692_001.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.aria.developpement-durable.gouv.fr/wp-content/files_mf/A5692_ips05692_001.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.aria.developpement-durable.gouv.fr/wp-content/files_mf/A5692_ips05692_001.pdf
+      \endverb
+    \endentry
+    \entry{musee_darcheologie_nationale_saint-denis_nodate}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a5078886fcd0f9694212b95c99a116d5}{%
+           family={{Musée d'archéologie nationale}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{a5078886fcd0f9694212b95c99a116d5}
+      \strng{fullhash}{a5078886fcd0f9694212b95c99a116d5}
+      \strng{bibnamehash}{a5078886fcd0f9694212b95c99a116d5}
+      \strng{authorbibnamehash}{a5078886fcd0f9694212b95c99a116d5}
+      \strng{authornamehash}{a5078886fcd0f9694212b95c99a116d5}
+      \strng{authorfullhash}{a5078886fcd0f9694212b95c99a116d5}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Saint-Denis, La ville actuelle et ses mutations}
+      \field{urlday}{8}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb La ville actuelle et ses mutations | Saint-Denis, une ville au Moyen Âge:/Users/charlotteberthier/Zotero/storage/K2ALUU5E/la-ville-actuelle-et-ses-mutations.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://archeologie.culture.gouv.fr/saint-denis/fr/la-ville-actuelle-et-ses-mutations
+      \endverb
+      \verb{url}
+      \verb https://archeologie.culture.gouv.fr/saint-denis/fr/la-ville-actuelle-et-ses-mutations
+      \endverb
+    \endentry
+    \entry{oge_sites_2004}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=7f8a82deef111d2448bc5dc78b9ac239}{%
+           family={Ogé},
+           familyi={O\bibinitperiod},
+           given={Frédéric},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5cd3d9b9cc3f934a906ccb4131e20e6c}{%
+           family={Simon},
+           familyi={S\bibinitperiod},
+           given={Pierre},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {EJL}%
+      }
+      \strng{namehash}{b494f7e0b62cca7439cb58569c173e90}
+      \strng{fullhash}{b494f7e0b62cca7439cb58569c173e90}
+      \strng{bibnamehash}{b494f7e0b62cca7439cb58569c173e90}
+      \strng{authorbibnamehash}{b494f7e0b62cca7439cb58569c173e90}
+      \strng{authornamehash}{b494f7e0b62cca7439cb58569c173e90}
+      \strng{authorfullhash}{b494f7e0b62cca7439cb58569c173e90}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{978-2-290-34296-1}
+      \field{series}{Librio}
+      \field{shorttitle}{Sites pollués en France}
+      \field{title}{Sites pollués en France: enquête sur un scandale sanitaire}
+      \field{year}{2004}
+      \field{dateera}{ce}
+      \keyw{\_nettoyé,\_lu}
+    \endentry
+    \entry{pauly_anecdotes_1995}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b604044f8f3cd92966263096ffa86ced}{%
+           family={Pauly},
+           familyi={P\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b604044f8f3cd92966263096ffa86ced}
+      \strng{fullhash}{b604044f8f3cd92966263096ffa86ced}
+      \strng{bibnamehash}{b604044f8f3cd92966263096ffa86ced}
+      \strng{authorbibnamehash}{b604044f8f3cd92966263096ffa86ced}
+      \strng{authornamehash}{b604044f8f3cd92966263096ffa86ced}
+      \strng{authorfullhash}{b604044f8f3cd92966263096ffa86ced}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{01695347}
+      \field{journaltitle}{Trends in Ecology \& Evolution}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{number}{10}
+      \field{shortjournal}{Trends in Ecology \& Evolution}
+      \field{title}{Anecdotes and the shifting baseline syndrome of fisheries}
+      \field{urlday}{8}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{10}
+      \field{year}{1995}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{430}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/S0169-5347(00)89171-5
+      \endverb
+      \verb{file}
+      \verb Pauly - 1995 - Anecdotes and the shifting baseline syndrome of fi.pdf:/Users/charlotteberthier/Zotero/storage/DNUAGDWH/Pauly - 1995 - Anecdotes and the shifting baseline syndrome of fi.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0169534700891715
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0169534700891715
+      \endverb
+    \endentry
+    \entry{rockstrom_safe_2009}{article}{}
+      \name{author}{29}{}{%
+        {{un=0,uniquepart=base,hash=766784023e0685b7d79290821742de70}{%
+           family={Rockström},
+           familyi={R\bibinitperiod},
+           given={Johan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c73a2896f09b80b3df3ade10d957b068}{%
+           family={Steffen},
+           familyi={S\bibinitperiod},
+           given={Will},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0be330166caa3d5ef2cd8a7ba9c8398e}{%
+           family={Noone},
+           familyi={N\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b5bcf16a10597df890b8e95169dd32da}{%
+           family={Persson},
+           familyi={P\bibinitperiod},
+           given={Åsa},
+           giveni={Å\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dd8f0fb699863394c4693f5042a84a06}{%
+           family={Chapin},
+           familyi={C\bibinitperiod},
+           given={F.\bibnamedelimi Stuart},
+           giveni={F\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=34d9ebc92047cd67691ef6bdfe60648e}{%
+           family={Lambin},
+           familyi={L\bibinitperiod},
+           given={Eric\bibnamedelima F.},
+           giveni={E\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c474c17cf1a0241ede7840d04ac29bab}{%
+           family={Lenton},
+           familyi={L\bibinitperiod},
+           given={Timothy\bibnamedelima M.},
+           giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=928c6696327fbb9942013ec7d598f6be}{%
+           family={Scheffer},
+           familyi={S\bibinitperiod},
+           given={Marten},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=33396b38f27fa7e13c6e1581623ba37c}{%
+           family={Folke},
+           familyi={F\bibinitperiod},
+           given={Carl},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cdf5cbaea6cb9a272b66f12463a09023}{%
+           family={Schellnhuber},
+           familyi={S\bibinitperiod},
+           given={Hans\bibnamedelima Joachim},
+           giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=72fbd08d559431c90ccd9392719ebae7}{%
+           family={Nykvist},
+           familyi={N\bibinitperiod},
+           given={Björn},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0da9ebfe2bc9c13cd9776e2dee4306dd}{%
+           family={Wit},
+           familyi={W\bibinitperiod},
+           given={Cynthia\bibnamedelima A.},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod},
+           prefixun=0}}%
+        {{un=0,uniquepart=base,hash=3ea572530947b5db450305c40f8de867}{%
+           family={Hughes},
+           familyi={H\bibinitperiod},
+           given={Terry},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=192b65169b71391ab0ac260f26c951fc}{%
+           family={Leeuw},
+           familyi={L\bibinitperiod},
+           given={Sander},
+           giveni={S\bibinitperiod},
+           givenun=0,
+           prefix={van\bibnamedelima der},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod},
+           prefixun=0}}%
+        {{un=0,uniquepart=base,hash=c07c2c5da4f968d5235bd4e8b48435f6}{%
+           family={Rodhe},
+           familyi={R\bibinitperiod},
+           given={Henning},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4242e6820684f9cf77ff47f78276127b}{%
+           family={Sörlin},
+           familyi={S\bibinitperiod},
+           given={Sverker},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ee41c69bd0cde1b2ef6613fab786b2c5}{%
+           family={Snyder},
+           familyi={S\bibinitperiod},
+           given={Peter\bibnamedelima K.},
+           giveni={P\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9cea31530438dc868664f38f0f38f35b}{%
+           family={Costanza},
+           familyi={C\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d90f7cd34b5c550f21680eea9cac02d9}{%
+           family={Svedin},
+           familyi={S\bibinitperiod},
+           given={Uno},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aafcd923f2fa8f84debde3884b30ee84}{%
+           family={Falkenmark},
+           familyi={F\bibinitperiod},
+           given={Malin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1a32daad3a5e2842eac16b9af4312ac8}{%
+           family={Karlberg},
+           familyi={K\bibinitperiod},
+           given={Louise},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3f6a8e7ad7eeeaa40bc45ecb5d07d5b7}{%
+           family={Corell},
+           familyi={C\bibinitperiod},
+           given={Robert\bibnamedelima W.},
+           giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9a9d79cf2c75d6727238a6cc99828e17}{%
+           family={Fabry},
+           familyi={F\bibinitperiod},
+           given={Victoria\bibnamedelima J.},
+           giveni={V\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4516acd3a1a7ee7f9cbec284834b113c}{%
+           family={Hansen},
+           familyi={H\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0e70dedbf6a6b49642ecd8c9d95c41c5}{%
+           family={Walker},
+           familyi={W\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4fa9ff6f42d54304ebc2d0279189d33d}{%
+           family={Liverman},
+           familyi={L\bibinitperiod},
+           given={Diana},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e8ad313d664bf91685f3dc86695a4fe8}{%
+           family={Richardson},
+           familyi={R\bibinitperiod},
+           given={Katherine},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b7441923960fab84fb405c235a318c64}{%
+           family={Crutzen},
+           familyi={C\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=366d81378af029a9cfb44dbe52868c9a}{%
+           family={Foley},
+           familyi={F\bibinitperiod},
+           given={Jonathan\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ad1f58e616e6f6cce52db1a4553b12fd}
+      \strng{fullhash}{07ba665848fec6c511e11f19d701176b}
+      \strng{bibnamehash}{ad1f58e616e6f6cce52db1a4553b12fd}
+      \strng{authorbibnamehash}{ad1f58e616e6f6cce52db1a4553b12fd}
+      \strng{authornamehash}{ad1f58e616e6f6cce52db1a4553b12fd}
+      \strng{authorfullhash}{07ba665848fec6c511e11f19d701176b}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Identifying and quantifying planetary boundaries that must not be transgressed could help prevent human activities from causing unacceptable environmental change, argue Johan Rockström and colleagues.}
+      \field{issn}{1476-4687}
+      \field{journaltitle}{Nature}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{note}{Publisher: Nature Publishing Group}
+      \field{number}{7263}
+      \field{title}{A safe operating space for humanity}
+      \field{urlday}{11}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{volume}{461}
+      \field{year}{2009}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{472\bibrangedash 475}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1038/461472a
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/Users/charlotteberthier/Zotero/storage/5NAMXCXH/Rockström et al. - 2009 - A safe operating space for humanity.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.nature.com/articles/461472a
+      \endverb
+      \verb{url}
+      \verb https://www.nature.com/articles/461472a
+      \endverb
+      \keyw{Humanities and Social Sciences,multidisciplinary,Science}
+    \endentry
+    \entry{charvet_sols_2024}{book}{}
+      \name{editora}{3}{}{%
+        {{hash=c054a531c63ff5aeac39f9f3e1411ceb}{%
+           family={Charvet},
+           familyi={C\bibinitperiod},
+           given={Ronald},
+           giveni={R\bibinitperiod}}}%
+        {{hash=b65f9b34073c048dec2490bf00af6f33}{%
+           family={Mougin},
+           familyi={M\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+        {{hash=be8198e26aa13e02056d38ebd704550d}{%
+           family={{Rémy, Elisabeth}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Quae}%
+      }
+      \strng{editorabibnamehash}{8c4bc45c58e570ce6b9a0be5141cc91b}
+      \strng{editoranamehash}{8c4bc45c58e570ce6b9a0be5141cc91b}
+      \strng{editorafullhash}{8c4bc45c58e570ce6b9a0be5141cc91b}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{shorttitle}
+      \field{editoratype}{collaborator}
+      \field{isbn}{978-2-7592-3684-8}
+      \field{note}{{OCLC}: 1417476022}
+      \field{shorttitle}{Sols urbains, environnement et santé}
+      \field{title}{Sols urbains, environnement et santé: repenser les usages}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \keyw{\_nettoyé,\_lu}
+    \endentry
+    \entry{tabeaud_lusine_2001}{collection}{}
+      \name{editor}{3}{}{%
+        {{un=0,uniquepart=base,hash=edd553ad63ff4c11917929f3814e673a}{%
+           family={Tabeaud},
+           familyi={T\bibinitperiod},
+           given={Martine},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9ccfbda63a483f279719773b953f355a}{%
+           family={Conte},
+           familyi={C\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9be2a78f915915f85051191f6670a3aa}{%
+           family={Toma},
+           familyi={T\bibinitperiod},
+           given={Yann},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Éditions de la Sorbonne}%
+      }
+      \strng{namehash}{00c967f65dc82d9aa65fc7a2a8cf1a4c}
+      \strng{fullhash}{00c967f65dc82d9aa65fc7a2a8cf1a4c}
+      \strng{bibnamehash}{00c967f65dc82d9aa65fc7a2a8cf1a4c}
+      \strng{editorbibnamehash}{00c967f65dc82d9aa65fc7a2a8cf1a4c}
+      \strng{editornamehash}{00c967f65dc82d9aa65fc7a2a8cf1a4c}
+      \strng{editorfullhash}{00c967f65dc82d9aa65fc7a2a8cf1a4c}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Si usiner, c’est encore pour beaucoup travailler durement, on ne peut plus aujourd’hui porter le même regard sur ce que ce terme évoque. L’usine qui, tout au long du xxe siècle, a rythmé les grands moments de l’Histoire, s’éteint tout doucement. Aujourd’hui, le monde de l’usine symbolise une époque, celle de l’activité industrielle des ouvriers, puis celle des licenciements de masse. C’est un monde de dur labeur, une histoire collective à comprendre de l’intérieur. Cet ouvrage, prenant à témoin l’espace francilien, nous explique le développement de l’usine et de son activité. Il nous plonge dans le passé des usines en disséquant son histoire, nous offre un regard pluriforme sur les nouvelles activités liées aux restructurations. Il nous permet égale- ment de saisir, par exemple, comment les anciennes usines de Boulogne- Billancourt peuvent devenir une fondation d’art contemporain. Dans le cadre du programme pluri-formations de l’Université Paris I-Panthéon Sorbonne (« Environnement francilien, de la gestion à la perception »), un groupe de chercheurs (économistes, géographes, historiens, plasticiens, esthéticiens, sociologues), sous l’égide du {CERAP} (Centre d’Etudes et de Recherches en Arts Plastiques) ont choisi que « l’Usine à chômage » s’empare de ce sujet lourd de signification. Alors que notre société est à l’heure de la « mondialisation » et que l’usine change de peau, ce thème aurait pu n’entraîner qu’un simple bilan scientifique. Il fait plus, il engage le débat.}
+      \field{isbn}{979-10-351-0118-3}
+      \field{langid}{french}
+      \field{pagetotal}{148}
+      \field{series}{Géographie}
+      \field{title}{L’usine dans l’espace francilien}
+      \field{urlday}{8}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{year}{2001}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://books.openedition.org/psorbonne/30835
+      \endverb
+      \verb{url}
+      \verb https://books.openedition.org/psorbonne/30835
+      \endverb
+      \keyw{architecture industrielle,espace francilien,mondialisation,travail,usine}
+    \endentry
+    \entry{verdier_question_2018}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d20b7fbfe5c0f8cbb81eaa7a21a8876f}{%
+           family={Verdier},
+           familyi={V\bibinitperiod},
+           given={Nicolas},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b69a3beb2b4169938e59f7f4f8b9ae93}{%
+           family={Chalonge},
+           familyi={C\bibinitperiod},
+           given={Ludovic},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7e335be54e185e5ff1923f42b6c9d5bc}
+      \strng{fullhash}{7e335be54e185e5ff1923f42b6c9d5bc}
+      \strng{bibnamehash}{7e335be54e185e5ff1923f42b6c9d5bc}
+      \strng{authorbibnamehash}{7e335be54e185e5ff1923f42b6c9d5bc}
+      \strng{authornamehash}{7e335be54e185e5ff1923f42b6c9d5bc}
+      \strng{authorfullhash}{7e335be54e185e5ff1923f42b6c9d5bc}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Partant d’une pratique de la recherche qui revient depuis des années sur la question de l’usage des échelles dans des travaux géohistoriques, ce texte propose une réflexion sur les jeux d’échelle, en même temps que sur la question du {MAUP} (modifiable areal unit problem). Il s’agit, en s’intéressant à l’histoire de la répartition des bureaux de poste en France durant les trois derniers siècles, de tenter de placer le questionnement sur l’échelle au même niveau que ceux relatifs à l’espace et au temps lorsque l’on étudie des faits sociaux. Dans ce cadre, nous proposons de passer par l’idée de « profils scalaires évolutifs », non seulement pour insister sur la nécessaire variation des échelles dans l’analyse des phénomènes spatio-temporels, mais encore pour tenter de définir des gabarits spatiaux évolutifs pour permettre la compréhension la plus ample possible de processus.}
+      \field{day}{26}
+      \field{issn}{1278-3366}
+      \field{journaltitle}{Cybergeo: European Journal of Geography}
+      \field{langid}{french}
+      \field{month}{4}
+      \field{note}{Publisher: {CNRS}-{UMR} Géographie-cités 8504}
+      \field{title}{La question des échelles en géohistoire. Les bureaux de la poste aux lettres du {XVIIIe} siècle à nos jours}
+      \field{urlday}{31}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.4000/cybergeo.29116
+      \endverb
+      \verb{file}
+      \verb Version soumise:/Users/charlotteberthier/Zotero/storage/XKCACK7D/Verdier et Chalonge - 2018 - La question des échelles en géohistoire. Les burea.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://journals.openedition.org/cybergeo/29116
+      \endverb
+      \verb{url}
+      \verb https://journals.openedition.org/cybergeo/29116
+      \endverb
+      \keyw{échelle,géohistoire,spatio-temporel,\_nettoyé,\_lu}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
